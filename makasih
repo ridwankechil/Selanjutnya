@@ -352,11 +352,9 @@ sleep 2
 echo $bi "kguerrero41603boss@gmail.com:Kalani01"
 sleep 2
 echo "jefrideniawan@gmail.com:Jakarta48"
-
 fi
 
 if [ $sayang = 2 ] || [ $sayang = 2 ]
-
 then
 
 echo $ku "terimakasih sudah berkunjung"
@@ -374,7 +372,6 @@ echo $or "share ke taman kalian buar subscriber bisa mqncapai"
 echo $me "500 subscriber kalo uda 500+ akan ada akun S1 lagi "
 echo "dan akun mobile legends sultan"
 echo $pu "Selamat Mencoba"
-
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
