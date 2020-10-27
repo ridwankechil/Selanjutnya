@@ -502,6 +502,5 @@ mgesual2@gmail.com:Weebus5188"
 echo "maaf karna gada persiapan tiba tiba udah sampai
 270 Subscriber. jadi ga sempat ngedit dan ngatur"
 echo "kebanyakan akun ml dan ff"
-termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
-
-expecting "fi"
+termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZs
+fi
