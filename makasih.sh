@@ -85,6 +85,7 @@ ronnymur09@gmail.com:> Overlord09"
 sleep 2
 echo $ku "maaf cuma segitu dan coba buka yg lainya "
 sh makasih
+
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
@@ -92,6 +93,7 @@ then
 
 echo "maaf bagi bagi akun next tidak tercatat"
 sh makasih
+
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
@@ -348,6 +350,7 @@ sleep 2
 echo $bi "kguerrero41603boss@gmail.com:Kalani01"
 sleep 2
 echo "jefrideniawan@gmail.com:Jakarta48"
+
 fi
 
 if [ $sayang = 2 ] || [ $sayang = 2 ]
@@ -369,6 +372,7 @@ echo $or "share ke taman kalian buar subscriber bisa mqncapai"
 echo $me "500 subscriber kalo uda 500+ akan ada akun S1 lagi "
 echo "dan akun mobile legends sultan"
 echo $pu "Selamat Mencoba"
+
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
@@ -500,4 +504,4 @@ echo "maaf karna gada persiapan tiba tiba udah sampai
 echo "kebanyakan akun ml dan ff"
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 
-fi
+"fi"
