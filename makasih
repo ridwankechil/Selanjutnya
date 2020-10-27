@@ -178,6 +178,8 @@ echo " untuk yang belum dapat bisa nunggu sampai 500
 Subscriber (-_-) bukan berarti gw maksa kalian subscribe
 yang iklas aja Subscribe {Cukup Sekian Terimakasih}"
 
+fi
+
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 
@@ -503,4 +505,5 @@ echo "maaf karna gada persiapan tiba tiba udah sampai
 270 Subscriber. jadi ga sempat ngedit dan ngatur"
 echo "kebanyakan akun ml dan ff"
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZs
+
 fi
