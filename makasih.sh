@@ -504,4 +504,4 @@ echo "maaf karna gada persiapan tiba tiba udah sampai
 echo "kebanyakan akun ml dan ff"
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 
-"fi"
+expecting "fi"
